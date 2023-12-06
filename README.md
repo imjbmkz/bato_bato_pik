@@ -1,4 +1,4 @@
-# bato_bato_pik
+# JDLS003-Python-Crash-Course-Bato-Bato-Pik-Console-Game
 Bato-Bato Pik is a Python console game which was developed for the Python crash course conducted by Josh Dev (that's me!)
 
 Run the program from the terminal.
